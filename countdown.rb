@@ -12,7 +12,7 @@ seconds_to_midnight = 11
    
   end 
   
-     "HAPPY NEW YEAR!"
+    return   "HAPPY NEW YEAR!"
 
 end 
 
@@ -24,7 +24,7 @@ def countdown(seconds_to_midnight)
    puts "#{seconds_to_midnight} SECOND(S)!"
    
   end 
-      "HAPPY NEW YEAR!"
+    return  "HAPPY NEW YEAR!"
     
 end
 
