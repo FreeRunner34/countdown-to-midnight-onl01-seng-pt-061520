@@ -1,6 +1,6 @@
 #require'pry'
 
-seconds_to_midnight = 11
+seconds_to_midnight = 10
 
  def countdown_with_sleep(seconds_to_midnight)
    
