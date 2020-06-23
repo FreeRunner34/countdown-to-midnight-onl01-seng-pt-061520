@@ -6,7 +6,6 @@ seconds_to_midnight = 10
    
    while seconds_to_midnight > 0 
   seconds_to_midnight -= 1 
-  
    puts "#{seconds_to_midnight} SECOND(S)!"
       sleep(5)
    
